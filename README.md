@@ -8,5 +8,3 @@ Roll no.- CSE/22/074
 branch-Computer science and engineering
 <br>
 CEMK'26
-<br>
-let's learn git and gitHub
