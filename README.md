@@ -1,12 +1,5 @@
 # FirstGit
-This is My First Git repository
+hi<br>
+this is feature2 branch
 <br>
-Author- Pritam Sundar Kar
-<br>
-Roll no.- CSE/22/074
-<br>
-branch-Computer science and engineering
-<br>
-CEMK'26
-<br>
-leat's learn git & gitHub
+let's try some more interesting with this git 
