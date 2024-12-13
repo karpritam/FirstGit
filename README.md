@@ -9,8 +9,4 @@ branch-Computer science and engineering
 <br>
 CEMK'26
 <br>
-hi
-<br>
-this is feature2 branch
-<br>
 let's try some more interesting with this git 
